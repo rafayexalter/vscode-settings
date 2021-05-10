@@ -6,6 +6,8 @@ Fonts:
 
 <!-- prettier-ignore -->
 Extensions:
+
+```
     - Auto Close Tag
     - Auto Import
     - Auto Rename Tag
@@ -20,5 +22,6 @@ Extensions:
     - Headwind
     - Tail CSS IntelliSense
     - One Dark Pro (Theme)
+```
 
 Press **CTRL + SHIFT + P** > Configure User Snippets > Paste the json of my given settings there and save it!
