@@ -1,0 +1,44 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Hack'",
+  "editor.lineHeight": 28,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "all",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "liquid": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDelete": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+      "strings": false
+    }
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+      "strings": false
+    }
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "diffEditor.ignoreTrimWhitespace": false
+}
